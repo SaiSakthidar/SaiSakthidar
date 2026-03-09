@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/saisakthidar/saisakthidar/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/SaiSakthidar/SaiSakthidar/output/github-contribution-grid-snake-dark.svg">
 </p>
