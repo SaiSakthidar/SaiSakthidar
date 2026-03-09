@@ -84,3 +84,7 @@
 <img src="https://streak-stats.demolab.com?user=saisakthidar&theme=tokyonight&hide_border=true" />
 
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/saisakthidar/saisakthidar/output/github-contribution-grid-snake.svg">
+</p>
