@@ -81,10 +81,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisakthidar&show_icons=true&locale=en" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisakthidar" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisakthidar&show_icons=true&locale=en&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=saisakthidar&theme=tokyonight&hide_border=true" />
 
 </p>
