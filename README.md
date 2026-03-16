@@ -6,7 +6,7 @@
 <h3 align="center">Sai Sakthidar</h3>
 
 <h3 align="center">
-> Developer & CTF player exploring cloud security, distributed systems, and scalable infrastructure
+> Developer & CTF player exploring cloud security, distributed systems and scalable infrastructure
 </h3>
 
 <p align="center">
