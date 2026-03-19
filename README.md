@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Security+Enthusiast;CTF+Player+%26+Hacker;DevOps+%7C+SysAdmin+%7C+Builder;Traveller+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Security+Enthusiast;CTF+Player+%26+Hacker;DevOps+%7C+SysAdmin+%7C+Builder" />
 </p>
 <h1 align="center">$ whoami</h1>
 <p align="center">
