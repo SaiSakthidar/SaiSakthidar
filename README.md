@@ -46,6 +46,17 @@
 </p>
 
 ---
+## $ cat contributions.txt
+
+| Project | PR | Status |
+|---|---|---|
+| [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | [Fix binary-safe Mach-O detection](https://github.com/rapid7/metasploit-framework/pull/21169) | ✅ Merged |
+| [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | [PHP Meterpreter TCP server tests](https://github.com/rapid7/metasploit-framework/pull/21143) | ✅ Merged |
+| [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | [Remove CAIN](https://github.com/rapid7/metasploit-framework/pull/20741) | ✅ Merged |
+| [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) | [TCP support for PHP Meterpreter](https://github.com/rapid7/metasploit-payloads/pull/793) | ✅ Merged |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | [Migrate UUID logic to pyo3.uuid](https://github.com/cocoindex-io/cocoindex/pull/663) | ✅ Merged |
+
+---
 
 ## $ git log --stat
 
